@@ -573,7 +573,7 @@ class FPL:
             "login": email,
             "password": password,
             "app": "plfpl-web",
-            "redirect_uri": "https://fantasy.premierleague.com/a/login"
+            "redirect_uri": "https://fantasy.premierleague.com/"
         }
 
         login_url = "https://users.premierleague.com/accounts/login/"
